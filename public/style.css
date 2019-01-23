@@ -1,0 +1,21 @@
+/* body {
+    padding-top: 50px;
+}
+
+#content {
+    padding-top: 20px;
+    padding-bottom: 20px;
+} */
+
+.ui.divider {
+    margin-bottom: 3em;
+}
+  
+.ui.dividing.header {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+i.icon {
+    margin: 0;
+}
